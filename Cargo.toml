@@ -1,0 +1,9 @@
+[package]
+name = "rand_yes_no"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "3.3.3"
+actix-files = "0.5.0"
+rand = "0.8.5"
